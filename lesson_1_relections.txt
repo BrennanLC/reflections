@@ -1,0 +1,33 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced? 
+
+view the diff between the two files helps by highlighting the lines and the type of difference between the two files without having to go through each file line by line.
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+having easy access to the entire history of the file lets you try new programming schemes and algorithms without worrying about completely beaking your program. 
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+the pro is that you can break up your versions into logical parts rather than saving every change separately or saving too many at once. the con is that it is a manual process that the person has to initiate.
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Version control systems like git were built to track changes in programs where you may have many files all interrelated and one  logical change may affect multiple files. version control in google docs is primarily used to track changes in documents where logical changes usually only affect one file. 
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+you can use git log to find what commits handle what change in your project. git diff allows you to see the specific changes for a commit when comparing them to another commit.
+
+
+How might using version control make you more confident to make changes that could break something?
+
+being able to revert anytime back to a working version would allow me to make changes without the fear I would not be able to go back to a working version of the program.
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I want to use git to make it easier to handle my projects and keep track of changes.
